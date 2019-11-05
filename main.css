@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    height: 100vh;
+
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 25px;
+}
+
+.one{
+    background-color: lightblue;
+    color: black;
+}
+.two{
+    background-color: lightcoral;
+    color: black;
+}
+.three{
+    background-color: lightcyan;
+    color: black;
+}
+.four{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+.five{
+    background-color: lightgray;
+    color: black;
+}
+.six{
+    background-color: lightgreen;
+    color: black;
+}
+.seven{
+    background-color: lightgrey;
+    color: black;
+}
+.eight{
+    background-color: lightpink;
+    color: black;
+}

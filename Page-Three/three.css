@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 25px;
+}
+.one{
+    background-color: lightblue;
+    color: black;
+}
+.two{
+    background-color: lightcoral;
+    color: black;
+}
+.three{
+    background-color: lightcyan;
+    color: black;
+}
+.four{
+    background-color: lightgoldenrodyellow;
+    color: black;
+}
+.five{
+    background-color: lightgray;
+}
+.six{
+    background-color: lightgreen;
+    color: black;
+}
+.seven{
+    background-color: lightgrey;
+    color: black;
+}
+.eight{
+    background-color: lightpink;
+    color: black;
+}
+.nine{
+    background-color: lightsalmon;
+    color: black;
+}
+.ten{
+    background-color: lightseagreen;
+    color: black;
+}
+.eleven{
+    background-color: lightskyblue;
+    color: black;
+}
+.twelve{
+    background-color: lightslategray;
+    color: black;
+}
+.thriteen{
+    background-color: lightsteelblue;
+    color: black;
+}
+.fourteen{
+    background-color: lightslategrey;
+    color: black;
+}
+.fifteen{
+    background-color: lightyellow;
+    color: black;
+}
+.sixteen{
+    background-color: palegoldenrod;
+    color: black;
+}
+.seventeen{
+    background-color: palegreen;
+    color: black;
+}
+.eighteen{
+    background-color: paleturquoise;
+    color: black;
+}
+.nineteen{
+    background-color: palevioletred;
+    color: black;
+}
+.twenty{
+    background-color: darkblue;
+    color: black;
+}
+.twenty-one{
+    background-color: darkcyan;
+    color: black;
+}
+.twnety-two{
+    background-color: darkgoldenrod;
+    color: black;
+}
+.twenty-three{
+    background-color: darkgray;
+    color: black;
+}
+.twenty-four{
+    background-color: darkgreen;
+    color: black;
+}
+.twenty-five{
+    background-color: darkgrey;
+    color: black;
+}
+.twenty-six{
+    background-color: darkkhaki;
+    color: black;
+}
+.twenty-seven{
+    background-color: darkmagenta;
+    color: black;
+}
+.twenty-eight{
+    background-color: darkolivegreen;
+    color: black;
+}
+.twenty-nine{
+    background-color: darkorange;
+    color: black;
+}
+.thirty{
+    background-color:darkorchid;
+    color: black;
+}
+.thirty-one{
+    background-color: darkred;
+    color: black;
+}
+.thirty-two{
+    background-color: darksalmon;
+    color: black;
+}
